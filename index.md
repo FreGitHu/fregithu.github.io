@@ -4,7 +4,7 @@ Welcome to my site! Not much here, most of the stuff is in the other pages.
 
 Table of contents:
 ---
-* [My Minecraft Server](minecraft.md)
+* [My Minecraft Server](minecraft.html)
 * and more
 ---
 
