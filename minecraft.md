@@ -1,4 +1,3 @@
-# My Minecraft Server
 
 Oh, I see you liked the look of my site. Anyway here's the info, sadly Java players, get off or switch to bedrock.
 
